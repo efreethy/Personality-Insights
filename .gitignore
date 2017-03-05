@@ -1,3 +1,3 @@
+.gitignore
 Constants.py
 *.pyc
-.gitignore
