@@ -5,6 +5,7 @@ import json
 import twitter
 from watson_developer_cloud import PersonalityInsightsV2 as PersonalityInsights
 
+# hide my api secrets from prying eyes...
 from Constants import (twitter_consumer_key,twitter_consumer_secret,twitter_access_token,
   twitter_access_secret,pi_username,pi_password)
 
