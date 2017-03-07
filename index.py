@@ -46,7 +46,8 @@ def compare(dict1,dict2):
   return compared_data
 
 
-
+# define the twitter handles of the two people to be compared
+# (what combo can be more different than elon musk and donald trump?)
 handleOne = '@elonmusk'
 handleTwo = '@realDonaldTrump'
 
